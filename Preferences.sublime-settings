@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Colorsublime-Themes/Gravity_Monokai.tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_height_short": true,
+	"theme": "Gravity.sublime-theme"
+}
